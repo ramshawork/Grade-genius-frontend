@@ -1,4 +1,4 @@
-# 🎓 Grade Genius
+# Grade Genius
 
 > **A smart, responsive examination system designed for both Examiners and Candidates.**
 
@@ -6,26 +6,26 @@ Grade Genius is a modern web application built to streamline the process of crea
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-- **📝 Full-page Exam Builder**  
+- **Full-page Exam Builder**  
   An intuitive interface for examiners to create complex exams with custom sections, varying question types (MCQ, numerical, subjective), and dynamic scoring.
   
-- **📊 Responsive Dashboard for Examiners**  
+- **Responsive Dashboard for Examiners**  
   A centralized management hub to oversee examination halls, analyze student performance, and grade subjective submissions.
 
-- **🧑‍🎓 Candidate Portal & Exam Interface**  
+- **Candidate Portal & Exam Interface**  
   A dedicated portal for students to join halls, track their classwork progress, and take active exams in a focused testing environment.
-
-- **🔐 Role-Based Authentication**  
+ 
+- **Role-Based Authentication**  
   A unified login and registration system for both candidates and examiners, utilizing persistent sessions to keep users logged in across page reloads.
 
-- **📱 Fully Mobile Responsive**  
+- **Fully Mobile Responsive**  
   Carefully crafted CSS grids and flexbox layouts ensure the application looks and functions perfectly on desktops, tablets, and smartphones.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 This project is built using modern, industry-standard web technologies:
 
@@ -37,7 +37,7 @@ This project is built using modern, industry-standard web technologies:
 
 ---
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 Follow these steps to get the project running on your local machine:
 
@@ -66,12 +66,12 @@ Follow these steps to get the project running on your local machine:
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 
 Here is a brief overview of the core project structure:
 
 ```text
-📦 grade-genius-saas
+grade-genius-saas
  ┣ 📂 app/              # Next.js App Router (Pages, Layouts, API routes)
  ┃ ┣ 📂 candidate-portal/ # Routes specific to the student experience
  ┃ ┗ 📂 examiner-dashboard/ # Routes specific to the teacher/admin experience
